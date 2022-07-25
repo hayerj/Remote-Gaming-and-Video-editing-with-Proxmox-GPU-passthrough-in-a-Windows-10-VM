@@ -1,6 +1,7 @@
 # Remote-Gaming-and-Video-editing-with-Proxmox-GPU-passthrough-in-a-Windows-10-VM
 ```
 https://www.youtube.com/watch?v=O7jQDcB-ZX4
+https://pve.proxmox.com/wiki/Pci_passthrough
 ```
 Are you a PC enthusiast want to play around virtualization and have you just recently upgraded to a 3000 series RTX card and don't know what to do with your 2000 series well I have a project for you.
 
